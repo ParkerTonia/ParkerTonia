@@ -19,3 +19,7 @@ Welcome to my personal project hub! I’m Tonia Parker—a Belhaven University a
   - Machine learning pipelines  
   - Data visualization and storytelling  
   - Collaborative research & open-source  
+---
+GitHub Stats (Optional Visual Section)
+
+![T0NIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkerTonia&show_icons=true&hide=prs&count_private=true&theme=default)

@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩‍💻 Tonia Parker
 
-<!--
-**ParkerTonia/ParkerTonia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal project hub! I’m Tonia Parker—a Belhaven University alumna now earning my M.S. in Data Science. I currently work as a Data Analyst at Northside Hospital, where I apply analytics and machine learning to improve patient care. My favorite language is Python, and I live for exploring data in Jupyter notebooks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♀️ About Me
+- **Pronouns:** she / her  
+- **Education:** B.A. from Belhaven University; M.S. in Data Science (in progress)  
+- **Current Role:** Data Analyst, Northside Hospital  
+- **Favorite Language:** Python 🐍  
+- **Tools I Love:**  
+  - Jupyter Notebooks  
+  - Pandas, NumPy, Scikit-Learn  
+  - Matplotlib, Seaborn, Plotly  
+  - MySQL & SQLAlchemy  
+- **Interests:**  
+  - Healthcare analytics & patient outcomes  
+  - Machine learning pipelines  
+  - Data visualization and storytelling  
+  - Collaborative research & open-source  
